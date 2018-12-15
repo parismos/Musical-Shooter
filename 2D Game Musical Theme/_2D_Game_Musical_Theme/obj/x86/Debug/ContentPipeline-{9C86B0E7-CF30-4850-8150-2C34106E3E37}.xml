@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>pick_trans2.png</Source>
+      <Name>pick_trans2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb</Output>
+      <Time>2018-12-02T21:56:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>note3_trans2.png</Source>
+      <Name>note3_trans2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb</Output>
+      <Time>2018-12-02T21:56:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\A.png</Source>
+      <Name>EnemyTextures\A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb</Output>
+      <Time>2018-03-28T00:18:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health bar.png</Source>
+      <Name>health bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb</Output>
+      <Time>2018-03-29T19:21:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2018-03-30T19:41:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>penta_laptop.jpg</Source>
+      <Name>penta_laptop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb</Output>
+      <Time>2018-03-31T18:42:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2018-03-31T20:01:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\B.png</Source>
+      <Name>EnemyTextures\B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb</Output>
+      <Time>2018-04-11T01:20:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\C.png</Source>
+      <Name>EnemyTextures\C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb</Output>
+      <Time>2018-04-11T01:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\D.png</Source>
+      <Name>EnemyTextures\D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb</Output>
+      <Time>2018-04-11T01:22:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\E.png</Source>
+      <Name>EnemyTextures\E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb</Output>
+      <Time>2018-04-11T01:22:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\F.png</Source>
+      <Name>EnemyTextures\F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb</Output>
+      <Time>2018-04-11T01:22:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTextures\G.png</Source>
+      <Name>EnemyTextures\G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb</Output>
+      <Time>2018-04-11T01:22:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2018-04-12T16:40:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>A.png</Source>
+      <Name>A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb</Output>
+      <Time>2018-04-17T16:08:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>B.png</Source>
+      <Name>B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb</Output>
+      <Time>2018-04-17T16:08:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C.png</Source>
+      <Name>C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb</Output>
+      <Time>2018-04-17T16:08:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>D.png</Source>
+      <Name>D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb</Output>
+      <Time>2018-04-17T16:08:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>E.png</Source>
+      <Name>E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb</Output>
+      <Time>2018-04-17T16:09:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>F.png</Source>
+      <Name>F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb</Output>
+      <Time>2018-04-17T16:09:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>G.png</Source>
+      <Name>G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb</Output>
+      <Time>2018-04-17T16:09:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Times New Roman.spritefont</Source>
+      <Name>Times New Roman</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb</Output>
+      <Time>2018-03-29T22:01:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>paris game mp3.mp3</Source>
+      <Name>paris game mp3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb</Output>
+      <Extra>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma</Extra>
+      <Time>2018-12-02T21:40:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Note A 2.wav</Source>
+      <Name>Note A 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb</Output>
+      <Time>2018-12-02T21:44:46+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9C86B0E7-CF30-4850-8150-2C34106E3E37}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-17T22:46:07.6384256+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,9 @@
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_ThemeContent\obj\x86\Debug\_2D_Game_Musical_ThemeContent.contentprojResolveAssemblyReference.cache

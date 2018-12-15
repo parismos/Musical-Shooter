@@ -1,0 +1,379 @@
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pentanewnew.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pentanewnew1.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+D:\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+C:\Users\Paris\Desktop\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\1.XNA last\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\XNA\1.XNA proj coll in progress\XNA\XNA backup\XNA\2D Game Musical Theme\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\Games Architecture\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+D:\Users\parokostis\Desktop\Games Architecture\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\pick_trans2.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\note3_trans2.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\A.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\penta_laptop.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\menu.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\B.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\C.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\D.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\E.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\F.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyTextures\G.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\A.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\B.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\C.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\D.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\E.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\F.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\G.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Times New Roman.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Note A 2.xnb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\paris game mp3.wma
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\0.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\1.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\2.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\3.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\4.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\5.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\EnemyAttributes\6.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\PlayerAttributes\playerInfo.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Content\Difficulty\difficultyLevel.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\_2D_Game_Musical_Theme.pdb
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.csprojResolveAssemblyReference.cache
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.exe
+C:\Users\Paris\Desktop\Musical Shooter\2D Game Musical Theme\_2D_Game_Musical_Theme\obj\x86\Debug\_2D_Game_Musical_Theme.pdb

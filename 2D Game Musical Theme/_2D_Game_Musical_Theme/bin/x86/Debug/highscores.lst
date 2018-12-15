@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<HighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>
+    <string>Yours</string>
+    <string>Yours</string>
+    <string>Yours</string>
+    <string>Yours</string>
+  </name>
+  <score>
+    <int>3750</int>
+    <int>3750</int>
+    <int>3750</int>
+    <int>3750</int>
+  </score>
+</HighScore>
