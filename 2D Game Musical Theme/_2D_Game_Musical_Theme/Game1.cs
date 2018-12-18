@@ -15,6 +15,7 @@ namespace _2D_Game_Musical_Theme
 {
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        #region Fields
         public enum State
         {
             Menu,
@@ -22,33 +23,33 @@ namespace _2D_Game_Musical_Theme
             GameOver
         }
 
-        
+        //Set first game state
+        State gameState = State.Menu;
 
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+
         Player player;
-        
         Background img;
         HUD hud;
+
         CollisionManager collisionManager;
-        Random rand;
+        CommandManager commandManager;
         SoundManager sm;
-        public int enemyDamage, enemyValue;
+        Random rand;
+        
+        //public int enemyDamage, enemyValue;
         public Texture2D menu;
         public Texture2D gameOver;
         string[] enemyArray = { "A", "B", "C", "D", "E", "F", "G" };
         public int difficultyLevel;
 
-        CommandManager commandManager;
-
         //Lists Needed
-        List<Enemies> enemyList; // = new List<Enemies>(5);
-        List<Explosion> explosionList = new List<Explosion>();
+        List<Enemies> enemyList;
+        List<Explosion> explosionList;
+        #endregion
 
-        //Set first game state
-        State gameState = State.Menu;
-
-        //Constructor
+        #region Initialization
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -59,19 +60,20 @@ namespace _2D_Game_Musical_Theme
 
             Content.RootDirectory = "Content";
 
-            player = new Player();
+            commandManager = new CommandManager();
+            collisionManager = new CollisionManager();
+            sm = new SoundManager();
+
+            player = new Player(collisionManager);
             enemyList = new List<Enemies>();
-            enemyDamage = 10;
+            explosionList = new List<Explosion>();
+            //enemyDamage = 10;
             menu = null;
             gameOver = null;
             
             img = new Background();
             hud = new HUD();
             rand = new Random();
-
-            commandManager = new CommandManager();
-            collisionManager = new CollisionManager();
-            sm = new SoundManager();
 
             //Subscribe Methods
             ScoreManager.IncreaseScoreMethods += hud.IncreaseScore;
@@ -86,10 +88,10 @@ namespace _2D_Game_Musical_Theme
             using (Stream fileStream = TitleContainer.OpenStream(difficultyLevelPath))
             {
                fileReader = new FileReader(fileStream);
-                tempArray = fileReader.ReadLinesFromTextFile();
+               tempArray = fileReader.ReadLinesFromTextFile();
             }
-            difficultyLevel = Int32.Parse(tempArray[0]);
 
+            difficultyLevel = Int32.Parse(tempArray[0]);
         }
 
         protected override void Initialize()
@@ -130,6 +132,7 @@ namespace _2D_Game_Musical_Theme
             commandManager.AddKeyboardBinding(Keys.A, player.Left);
             commandManager.AddKeyboardBinding(Keys.Space, player.PlayerShoots);
             commandManager.AddKeyboardBinding(Keys.Escape, this.ExitGame);
+            //commandManager.AddKeyboardBinding(Keys.Enter, State.Playing);
         }
 
         private void InitializeCollidableObjects()
@@ -150,6 +153,7 @@ namespace _2D_Game_Musical_Theme
             MediaPlayer.Play(sm.backgroundMusic);
             MediaPlayer.IsRepeating = true;
         }
+        #endregion
 
         protected override void UnloadContent()
         {
@@ -158,73 +162,44 @@ namespace _2D_Game_Musical_Theme
         protected override void Update(GameTime gameTime)
         {
             commandManager.Update();
-            
-            
+
             // Updating States
             switch (gameState)
             {
-                //Update playing state
+                #region Main Menu
+                case State.Menu:
+                    {
+                        //Get keyboard Inputs
+                        KeyboardState keyState = Keyboard.GetState();
+                        if (keyState.IsKeyDown(Keys.Enter))
+                        {
+                            gameState = State.Playing;
+                        }
+                        break;
+                    }
+                #endregion
+
+                #region Core Game
                 case State.Playing:
                     {
                         //Check for collisions
                         collisionManager.Update();
                         //Player Update
                         player.Update(gameTime);
-                        //Player projectiles
-                        player.UpdateProjectile();
 
-                        ResolveRemovals();
+                        ResolveEnemyRemovals();
+                        ResolveProjectileRemovals();
 
+                        //Update enemies
                         foreach (Enemies e in enemyList)
                         {
                             e.Update(gameTime);
-                            e.dmgReceived = player.dmg;
-                            
-                           
-                            /* CODE THAT WORKS WITH PROJECTILE COLLISION
-                            for (int i = 0; i < player.projList.Count; i++)
-                            {
-                                if (player.projList[i].collider.Intersects(e.BoundingRectangle))
-                                {
-
-                                    e.health -= e.dmgReceived;
-                                    player.projList[i].exists = false;
-                                    if (e.health <= 0)
-                                    {
-                                        sm.enemyDies.Play();
-                                        explosionList.Add(new Explosion(Content.Load<Texture2D>("explosion"), new Vector2(e.position.X, e.position.Y)));
-                                        e.exists = false;
-                                    }
-                                }
-                            }
-                            */
-
-                            /*
-                            for (int i = 0; i < player.projList.Count; i++)
-                            {
-                                if (player.projList[i].collider.Intersects(e.BoundingRectangle))
-                                {
-                                    //If collision with bullet happens then dmgReceived is activated
-                                    player.projList[i].exists = false; //remove projectile
-                                }
-                            }
-                            */
-
-                            if (e.exists == false)
-                            {
-                                sm.enemyDies.Play();
-                                explosionList.Add(new Explosion(Content.Load<Texture2D>("explosion"), new Vector2(e.position.X, e.position.Y)));
-                            }
-                            
-
-                            for (int i = 0; i<player.projList.Count; i++)
-                                if(!player.projList[i].exists)
-                                {
-                                    player.projList.RemoveAt(i);
-                                    i--;
-                                }
                         }
-
+                        //Update projectiles 
+                        foreach (Projectile p in player.projList)
+                        {
+                            p.Update();
+                        }
                         //Update Eplosions
                         foreach (Explosion ex in explosionList)
                         {
@@ -242,24 +217,15 @@ namespace _2D_Game_Musical_Theme
                         LoadEnemies();
 
                         //Manage explosion
-                        ManageExplosions();
-                       
+                        ResolveExplosionRemovals();
+
                         //HUD update
                         hud.Update(gameTime); // COULD ADD KEY To TOGGLE SCOREBOARD
                         break;
                     }
-                //Updating Menu state
-                case State.Menu:
-                    {
-                        //Get keyboard Inputs
-                        KeyboardState keyState = Keyboard.GetState();
-                        if(keyState.IsKeyDown(Keys.Enter))
-                        {
-                            gameState = State.Playing;
-                        }
-                        break;
-                    }
-                //Updating GameOver state
+                #endregion
+
+                #region GameOver
                 case State.GameOver:
                     {
                         MediaPlayer.Stop();
@@ -279,7 +245,9 @@ namespace _2D_Game_Musical_Theme
                         }
                         break;
                     }
+                    #endregion
             }
+
             base.Update(gameTime);
         }
 
@@ -287,9 +255,10 @@ namespace _2D_Game_Musical_Theme
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             spriteBatch.Begin();
+
             switch(gameState)
             {
-                //Drawing playstate
+                #region CoreGame Draw
                 case State.Playing:
                     {
                         img.Draw(spriteBatch);
@@ -305,36 +274,44 @@ namespace _2D_Game_Musical_Theme
                         hud.Draw(spriteBatch);
                         break;
                     }
-                    //Drawing Menu State
+                #endregion
+
+                #region Main Menu Draw
                 case State.Menu:
                     {
                         img.Draw(spriteBatch);
                         spriteBatch.Draw(menu, new Vector2(0, 0), Color.White);
                         break;
                     }
-                    //Drawing Game Over State
+                #endregion
+
+                #region GameOver Draw
                 case State.GameOver:
                     {
                         spriteBatch.Draw(gameOver, new Vector2(0, 0), Color.White);
                         DisplayHighscores();
                         break;
                     }
+                #endregion
             }
+
             spriteBatch.End();
             base.Draw(gameTime);
         }
 
         public void LoadEnemies()
         {
-            //Creating random posiitons for our enemies and random array entry
+            //Random Position & Random Index
             int randX = rand.Next(1118, 2236);
             int randY = rand.Next(0, 550);
-            int randIndex = rand.Next(0, difficultyLevel); // use level number for upper limit ?
+            int randIndex = rand.Next(0, difficultyLevel);
+            
             //Keep up the number of enemies on screen
             if(enemyList.Count()<5)
             {
-                //Define path to get enemy info using randIndex to randomly choose enemy type to spawn
+                //Use Random Index to randomly choose enemy
                 string enemyInfoPath = string.Format("Content/EnemyAttributes/{0}.txt", randIndex);
+               
                 //Open stream using path defined above
                 using (Stream fileStream = TitleContainer.OpenStream(enemyInfoPath))
                 {
@@ -348,9 +325,10 @@ namespace _2D_Game_Musical_Theme
             }
         }
 
-        public void ManageExplosions()
+        #region ResolveRemovals
+        private void ResolveExplosionRemovals()
         {
-            //as above to remove explosion from list
+            //Remove explosions from list
             for(int i = 0; i < explosionList.Count; i++)
             {
                 if (!explosionList[i].exists)
@@ -361,13 +339,17 @@ namespace _2D_Game_Musical_Theme
             }
         } 
 
-        private void ResolveRemovals()
+        private void ResolveEnemyRemovals()
         {
             List<Enemies> toDelete = new List<Enemies>();
             foreach (Enemies e in enemyList)
             {
                 if(e.FlaggedForRemoval)
                 {
+                    sm.enemyDies.Play();
+
+                    explosionList.Add(new Explosion(Content.Load<Texture2D>("explosion"), new Vector2(e.position.X, e.position.Y)));
+
                     toDelete.Add(e);
                 }
             }
@@ -377,9 +359,27 @@ namespace _2D_Game_Musical_Theme
                 enemyList.Remove(en);
                 collisionManager.RemoveCollidable(en);
             }
-
         }
 
+        private void ResolveProjectileRemovals()
+        {
+            List<Projectile> toDelete = new List<Projectile>();
+            foreach (Projectile pr in player.projList)
+            {
+                if (pr.FlaggedForRemoval)
+                {
+                    toDelete.Add(pr);
+                }
+            }
+
+            foreach (Projectile pr in toDelete)
+            {
+                player.projList.Remove(pr);
+                collisionManager.RemoveCollidable(pr);
+            }
+
+        }
+        #endregion
 
         #region Highscore
 

@@ -61,12 +61,6 @@ namespace _2D_Game_Musical_Theme
 
             //Add key to binding to the command map
             m_KeyBindings.Add(key, action);
-
         }
-
-
-
     }
-
-
 }

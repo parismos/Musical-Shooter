@@ -17,12 +17,12 @@ namespace _2D_Game_Musical_Theme
             FlaggedForRemoval = false;
         }
 
+        //Get/Prot Set
         public Rectangle BoundingRectangle
         {
             get { return boundingRectangle; }
         }
-
-       
+               
         public virtual bool CollisionTest(Collidable obj)
         {
             return false;

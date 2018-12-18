@@ -29,7 +29,6 @@ namespace _2D_Game_Musical_Theme
         {
             CurrentKeyboardState = Keyboard.GetState();
             PrevKeyboardState = CurrentKeyboardState;
-
             KeyList = new HashSet<Keys>();
         }
 
@@ -51,24 +50,20 @@ namespace _2D_Game_Musical_Theme
             foreach(Keys key in KeyList)
             {
                 if(CurrentKeyboardState.IsKeyDown(key))
-                //Fire the keyboard event
                 {
                     if (OnKeyDown != null) OnKeyDown(this, new KeyboardEventArgs(key, CurrentKeyboardState, PrevKeyboardState));
                 }
+
                 if(PrevKeyboardState.IsKeyDown(key) && CurrentKeyboardState.IsKeyUp(key))
                 {
-                    //Fire the OnKeyUp event
                     if (OnKeyUp != null) OnKeyUp(this, new KeyboardEventArgs(key, CurrentKeyboardState, PrevKeyboardState));
                 }
+
                 if(PrevKeyboardState.IsKeyDown(key) && CurrentKeyboardState.IsKeyDown(key))
                 {
-                    //Fire the OnKeyPressed event
                     if (OnKeyPressed != null) OnKeyPressed(this, new KeyboardEventArgs(key, CurrentKeyboardState, PrevKeyboardState));
                 }
             }
         }
-
-   
-
     }
 }

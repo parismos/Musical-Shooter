@@ -11,6 +11,7 @@ namespace _2D_Game_Musical_Theme
 {
     public class Explosion
     {
+        #region Fields
         public Texture2D texture;
         public Vector2 position, origin;
         public float timer;
@@ -18,8 +19,9 @@ namespace _2D_Game_Musical_Theme
         public int current_frame, spriteW, spriteH;
         public Rectangle sourceRec; //the rectangle that will grab each sprite
         public bool exists;
+        #endregion
 
-        //Constructor
+        #region Initialization
         public Explosion(Texture2D newTexture, Vector2 newPosition)
         {
             position = newPosition;
@@ -31,27 +33,20 @@ namespace _2D_Game_Musical_Theme
             spriteH = 128; //Height of each individual image on the spritesheet
             exists = true;
         }
-
-        public void LoadContent(ContentManager content)
-        {
-        }
+        #endregion
 
         public void Update(GameTime gameTime)
         {
-            //increase the timer by number of miliseconds since update was last called
             timer += (float)gameTime.ElapsedGameTime.TotalMilliseconds;
 
             //Check timer is more than the chosen interval
             if (timer > interval)
-
             {
-                //show next frame
-                current_frame++;
-                //reset timer
-                timer = 0f;
+                current_frame++; //show next frame
+                timer = 0f; //reset timer
             }
 
-            //if on last frame so last picture on spritesheet reset make explosion exist = false; and current_frame = 0
+            //if last frame on spritesheet then reset and make explosion exist = false
             if (current_frame == 18) //depending how many sprites we have on the spritesheet
             {
                 exists = false;
@@ -67,8 +62,6 @@ namespace _2D_Game_Musical_Theme
         {
             if (exists)
                 spriteBatch.Draw(texture, position, sourceRec, Color.White, 0f, origin, 1.0f, SpriteEffects.None, 0);
-
         }
-
     }
 }

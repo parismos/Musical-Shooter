@@ -16,14 +16,12 @@ namespace _2D_Game_Musical_Theme
         //Appearance variables
         public Texture2D texture, projTexture, healthTexture;
 
-        //Attribute variables + health bar position
+        //Attributes + Health bar position
         public int health, startingHealth, dmg, projDelay;
         public Vector2 healthBarPosition;
 
         //Motion variables
-        public Vector2 force, forceEnable, velocity, acceleration, startingPosition, position;
-        public int mass;
-        public float maxVelocity, drag, time;
+        public Vector2 velocity, startingPosition, position;
 
         //Collision Variables
         public bool isColliding;
@@ -38,12 +36,11 @@ namespace _2D_Game_Musical_Theme
         //File read variable
         private FileReader fileRead;
 
-        CollisionManager collisionManager;
-      
+        CollisionManager colManager;    
         #endregion  
 
         #region Initialization
-        public Player()
+        public Player(CollisionManager collisionManager)
         {
             //Set up an array with the lines from playerInfo text file 
             string playerInfoPath = "Content/PlayerAttributes/playerInfo.txt";
@@ -56,7 +53,6 @@ namespace _2D_Game_Musical_Theme
             startingHealth = Int32.Parse(playerAttributes[0]); //health bar square = 30x30. So multiple of 30 for a full bar
             health = startingHealth;
             dmg = Int32.Parse(playerAttributes[1]);
-            mass = 1;
 
             //Player texture
             texture = null;
@@ -70,15 +66,9 @@ namespace _2D_Game_Musical_Theme
             
             //Motion variables
             velocity = Vector2.Zero;
-            maxVelocity = 25.0f;
-            acceleration = Vector2.Zero;
-            drag = 0.9f;
-            time = 0f;
-            forceEnable = new Vector2(0,0);
-            force = new Vector2(1000, 1000);
             
             //Collision variable
-            collisionManager = new CollisionManager();
+            colManager = collisionManager;
 
             //Projectile list and delay variable
             projList = new List<Projectile>();
@@ -107,37 +97,24 @@ namespace _2D_Game_Musical_Theme
             }
         }
 
-
         //Update
         public void Update(GameTime gameTime)
         {
-            KeyboardState keyState = Keyboard.GetState(); //checking for keyboard state per frame
             //Player collider - updating every frame
             boundingRectangle = new Rectangle((int)position.X, (int)position.Y, texture.Width, texture.Height);
             healthBar = new Rectangle((int)healthBarPosition.X, (int)healthBarPosition.Y, health, 30);
 
-            Vector2 previousPosition = position;
-
-
-
             float deltaTime = (float)gameTime.ElapsedGameTime.TotalMilliseconds;
-
             position += velocity * deltaTime/2;
 
-            //Keep player within screen boundaries (coordinates of sprites are based on top left corner
-            if (position.Y <= 0)
-                position.Y = 0;
-            if (position.Y >= (650 - texture.Height))
-                position.Y = 650-texture.Height;
-            if (position.X <= 0)
-                position.X = 0;
-            if (position.X >= 1118 - texture.Width)
-                position.X = 1118 -texture.Width;
-
+            //Keep Player within screen boundaries (coordinates of sprites are based on top left corner)
+            if (position.X <= 0) position.X = 0;
+            if (position.X >= 1118 - texture.Width) position.X = 1118 - texture.Width;
+            if (position.Y <= 0)   position.Y = 0;
+            if (position.Y >= (650 - texture.Height))   position.Y = 650-texture.Height;
+            
             //Reset
             velocity = Vector2.Zero;
-            
-            UpdateProjectile();
         }
 
         #region Controls
@@ -196,18 +173,15 @@ namespace _2D_Game_Musical_Theme
             // if projectile delay is at 0 then create a new projectile(add to list)
             if(projDelay <=0)
             {
-                
-                Projectile newProj = new Projectile(projTexture);
-                collisionManager.AddCollidable(newProj);
+                Projectile newProj = new Projectile(projTexture, this);
+                colManager.AddCollidable(newProj);
                 newProj.position = new Vector2(position.X + 100 - newProj.texture.Width / 2, position.Y ); //+ newProj.texture.Height/10
-                newProj.collider = new Rectangle((int)newProj.position.X, (int)newProj.position.Y, newProj.texture.Width, newProj.texture.Height);
+                //newProj.UpdateCollider();
                 newProj.exists = true;
-
 
                 if (projList.Count() < 80)
                 {
                     projList.Add(newProj);
-                    
                 }
             }
 
@@ -216,41 +190,12 @@ namespace _2D_Game_Musical_Theme
                 projDelay = 50;
         }
 
-
-        // update projectile functioN
-        public void UpdateProjectile()
-        {
-            // for each projectile in the list update its position and remove it if it reaches right screen boundary
-            foreach(Projectile p in projList)
-            {
-                //Update collider for every projectile in our list
-                p.collider = new Rectangle((int)p.position.X, (int)p.position.Y, p.texture.Width, p.texture.Height);
-               //Projectile motion
-                p.position.X = p.position.X + p.speed+1;
-                if (p.position.X >= 1118)
-                    p.exists = false;
-            }
-
-            for(int i = 0; i<projList.Count; i++)
-            {
-                if(!projList[i].exists)
-                {
-                    projList.RemoveAt(i);
-                    i--;
-                }
-            }
-        }
-
         #region Collision
         //Collision Detection
         public override bool CollisionTest(Collidable obj)
         {
-            if (obj != null)
-            {
-                return BoundingRectangle.Intersects(obj.BoundingRectangle);
-            }
-            else
-                return false;
+            if (obj != null)  return boundingRectangle.Intersects(obj.BoundingRectangle);
+            else  return false;
         }
 
         //Collision Response
@@ -261,7 +206,6 @@ namespace _2D_Game_Musical_Theme
             {
                 health -= enemy.dmg; //if player collides with enemy, player takes enemy's damage  
             } 
-                         
         }
         #endregion  
     }
